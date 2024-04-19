@@ -1,0 +1,7 @@
+roboflow
+ultralytics
+opencv-python
+scikit-learn
+Flask
+numpy==1.21.5
+dill
